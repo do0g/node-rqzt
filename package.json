@@ -1,0 +1,26 @@
+{
+  "name": "rqzt",
+  "version": "0.0.0",
+  "description": "Like request, but tiny",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "do0g <do0g.dev@gmail.com> (http://www.mothdust.com)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/do0g/node-req.git"
+  },
+  "keywords": [
+    "request",
+    "request-promise",
+    "rest",
+    "node",
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/do0g/node-req/issues"
+  },
+  "homepage": "https://github.com/do0g/node-req#readme"
+}
