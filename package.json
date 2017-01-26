@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/do0g/node-req.git"
+    "url": "git+https://github.com/do0g/node-rqzt.git"
   },
   "keywords": [
     "request",
@@ -20,7 +20,7 @@
     "nodejs"
   ],
   "bugs": {
-    "url": "https://github.com/do0g/node-req/issues"
+    "url": "https://github.com/do0g/node-rqzt/issues"
   },
-  "homepage": "https://github.com/do0g/node-req#readme"
+  "homepage": "https://github.com/do0g/node-rqzt#readme"
 }
